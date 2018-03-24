@@ -1,0 +1,9 @@
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\Lista.cs\Lista.cs\bin\Debug\Lista.cs.exe.config
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\Lista.cs\Lista.cs\bin\Debug\Lista.cs.exe
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\Lista.cs\Lista.cs\bin\Debug\Lista.cs.pdb
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\Lista.cs\Lista.cs\obj\Debug\Lista.cs.Form1.resources
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\Lista.cs\Lista.cs\obj\Debug\Lista.cs.Properties.Resources.resources
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\Lista.cs\Lista.cs\obj\Debug\Lista.cs.csproj.GenerateResource.Cache
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\Lista.cs\Lista.cs\obj\Debug\Lista.cs.csproj.CoreCompileInputs.cache
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\Lista.cs\Lista.cs\obj\Debug\Lista.cs.exe
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\Lista.cs\Lista.cs\obj\Debug\Lista.cs.pdb
