@@ -1,0 +1,10 @@
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\encap\encap\bin\Debug\encap.exe.config
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\encap\encap\bin\Debug\encap.exe
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\encap\encap\bin\Debug\encap.pdb
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\encap\encap\obj\Debug\encap.csprojResolveAssemblyReference.cache
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\encap\encap\obj\Debug\encap.Form1.resources
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\encap\encap\obj\Debug\encap.Properties.Resources.resources
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\encap\encap\obj\Debug\encap.csproj.GenerateResource.Cache
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\encap\encap\obj\Debug\encap.csproj.CoreCompileInputs.cache
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\encap\encap\obj\Debug\encap.exe
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\encap\encap\obj\Debug\encap.pdb
