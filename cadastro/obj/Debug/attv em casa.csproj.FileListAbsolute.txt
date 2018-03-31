@@ -1,0 +1,10 @@
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\attv em casa\attv em casa\bin\Debug\attv em casa.exe.config
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\attv em casa\attv em casa\bin\Debug\attv em casa.exe
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\attv em casa\attv em casa\bin\Debug\attv em casa.pdb
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\attv em casa\attv em casa\obj\Debug\attv_em_casa.Form1.resources
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\attv em casa\attv em casa\obj\Debug\attv_em_casa.Properties.Resources.resources
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\attv em casa\attv em casa\obj\Debug\attv em casa.csproj.GenerateResource.Cache
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\attv em casa\attv em casa\obj\Debug\attv em casa.csproj.CoreCompileInputs.cache
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\attv em casa\attv em casa\obj\Debug\attv em casa.exe
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\attv em casa\attv em casa\obj\Debug\attv em casa.pdb
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\attv em casa\attv em casa\obj\Debug\attv em casa.csprojResolveAssemblyReference.cache
