@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoMedia.css", "CalculoMedia.css\CalculoMedia.css.csproj", "{FD67C503-9CB7-4DF8-A9D9-EF1F26D49707}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD67C503-9CB7-4DF8-A9D9-EF1F26D49707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD67C503-9CB7-4DF8-A9D9-EF1F26D49707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD67C503-9CB7-4DF8-A9D9-EF1F26D49707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD67C503-9CB7-4DF8-A9D9-EF1F26D49707}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB133448-C7B2-490E-B4CC-4CFFF4DDB4CA}
+	EndGlobalSection
+EndGlobal

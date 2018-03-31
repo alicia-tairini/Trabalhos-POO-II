@@ -1,0 +1,10 @@
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\CalculoMedia.css\CalculoMedia.css\bin\Debug\CalculoMedia.css.exe.config
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\CalculoMedia.css\CalculoMedia.css\bin\Debug\CalculoMedia.css.exe
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\CalculoMedia.css\CalculoMedia.css\bin\Debug\CalculoMedia.css.pdb
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\CalculoMedia.css\CalculoMedia.css\obj\Debug\CalculoMedia.css.csprojResolveAssemblyReference.cache
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\CalculoMedia.css\CalculoMedia.css\obj\Debug\CalculoMedia.css.Form1.resources
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\CalculoMedia.css\CalculoMedia.css\obj\Debug\CalculoMedia.css.Properties.Resources.resources
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\CalculoMedia.css\CalculoMedia.css\obj\Debug\CalculoMedia.css.csproj.GenerateResource.Cache
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\CalculoMedia.css\CalculoMedia.css\obj\Debug\CalculoMedia.css.csproj.CoreCompileInputs.cache
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\CalculoMedia.css\CalculoMedia.css\obj\Debug\CalculoMedia.css.exe
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\CalculoMedia.css\CalculoMedia.css\obj\Debug\CalculoMedia.css.pdb
