@@ -1,0 +1,10 @@
+C:\Users\Alicia Tairini\source\repos\OrdenarNomes.cs\OrdenarNomes.cs\bin\Debug\OrdenarNomes.cs.exe.config
+C:\Users\Alicia Tairini\source\repos\OrdenarNomes.cs\OrdenarNomes.cs\bin\Debug\OrdenarNomes.cs.exe
+C:\Users\Alicia Tairini\source\repos\OrdenarNomes.cs\OrdenarNomes.cs\bin\Debug\OrdenarNomes.cs.pdb
+C:\Users\Alicia Tairini\source\repos\OrdenarNomes.cs\OrdenarNomes.cs\obj\Debug\OrdenarNomes.cs.csprojResolveAssemblyReference.cache
+C:\Users\Alicia Tairini\source\repos\OrdenarNomes.cs\OrdenarNomes.cs\obj\Debug\OrdenarNomes.cs.Form1.resources
+C:\Users\Alicia Tairini\source\repos\OrdenarNomes.cs\OrdenarNomes.cs\obj\Debug\OrdenarNomes.cs.Properties.Resources.resources
+C:\Users\Alicia Tairini\source\repos\OrdenarNomes.cs\OrdenarNomes.cs\obj\Debug\OrdenarNomes.cs.csproj.GenerateResource.Cache
+C:\Users\Alicia Tairini\source\repos\OrdenarNomes.cs\OrdenarNomes.cs\obj\Debug\OrdenarNomes.cs.csproj.CoreCompileInputs.cache
+C:\Users\Alicia Tairini\source\repos\OrdenarNomes.cs\OrdenarNomes.cs\obj\Debug\OrdenarNomes.cs.exe
+C:\Users\Alicia Tairini\source\repos\OrdenarNomes.cs\OrdenarNomes.cs\obj\Debug\OrdenarNomes.cs.pdb
