@@ -1,0 +1,10 @@
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\Listade Produtos\Listade Produtos\bin\Debug\Listade Produtos.exe.config
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\Listade Produtos\Listade Produtos\bin\Debug\Listade Produtos.exe
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\Listade Produtos\Listade Produtos\bin\Debug\Listade Produtos.pdb
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\Listade Produtos\Listade Produtos\obj\Debug\Listade Produtos.csprojResolveAssemblyReference.cache
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\Listade Produtos\Listade Produtos\obj\Debug\Listade_Produtos.Form1.resources
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\Listade Produtos\Listade Produtos\obj\Debug\Listade_Produtos.Properties.Resources.resources
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\Listade Produtos\Listade Produtos\obj\Debug\Listade Produtos.csproj.GenerateResource.Cache
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\Listade Produtos\Listade Produtos\obj\Debug\Listade Produtos.csproj.CoreCompileInputs.cache
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\Listade Produtos\Listade Produtos\obj\Debug\Listade Produtos.exe
+C:\Users\Alicia Tairini\Downloads\Desktop\Poo2\Listade Produtos\Listade Produtos\obj\Debug\Listade Produtos.pdb
