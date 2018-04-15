@@ -1,0 +1,13 @@
+C:\Users\Alicia Tairini\source\repos\TrabB1Cadastro.cs\TrabB1Cadastro.cs\bin\Debug\TrabB1Cadastro.cs.exe.config
+C:\Users\Alicia Tairini\source\repos\TrabB1Cadastro.cs\TrabB1Cadastro.cs\bin\Debug\TrabB1Cadastro.cs.exe
+C:\Users\Alicia Tairini\source\repos\TrabB1Cadastro.cs\TrabB1Cadastro.cs\bin\Debug\TrabB1Cadastro.cs.pdb
+C:\Users\Alicia Tairini\source\repos\TrabB1Cadastro.cs\TrabB1Cadastro.cs\obj\Debug\TrabB1Cadastro.cs.csprojResolveAssemblyReference.cache
+C:\Users\Alicia Tairini\source\repos\TrabB1Cadastro.cs\TrabB1Cadastro.cs\obj\Debug\TrabB1Cadastro.cs.FormAluno.resources
+C:\Users\Alicia Tairini\source\repos\TrabB1Cadastro.cs\TrabB1Cadastro.cs\obj\Debug\TrabB1Cadastro.cs.Properties.Resources.resources
+C:\Users\Alicia Tairini\source\repos\TrabB1Cadastro.cs\TrabB1Cadastro.cs\obj\Debug\TrabB1Cadastro.cs.csproj.GenerateResource.Cache
+C:\Users\Alicia Tairini\source\repos\TrabB1Cadastro.cs\TrabB1Cadastro.cs\obj\Debug\TrabB1Cadastro.cs.csproj.CoreCompileInputs.cache
+C:\Users\Alicia Tairini\source\repos\TrabB1Cadastro.cs\TrabB1Cadastro.cs\obj\Debug\TrabB1Cadastro.cs.exe
+C:\Users\Alicia Tairini\source\repos\TrabB1Cadastro.cs\TrabB1Cadastro.cs\obj\Debug\TrabB1Cadastro.cs.pdb
+C:\Users\Alicia Tairini\source\repos\TrabB1Cadastro.cs\TrabB1Cadastro.cs\obj\Debug\TrabB1Cadastro.cs.FormProfessor.resources
+C:\Users\Alicia Tairini\source\repos\TrabB1Cadastro.cs\TrabB1Cadastro.cs\obj\Debug\TrabB1Cadastro.cs.FormMateria.resources
+C:\Users\Alicia Tairini\source\repos\TrabB1Cadastro.cs\TrabB1Cadastro.cs\obj\Debug\TrabB1Cadastro.cs.Menu.resources
