@@ -69,7 +69,7 @@ namespace TrabB1Cadastro.cs
         }
         #endregion
 
-        #region Btn Cancelar
+        #region Btn Limpar Tudo
         private void btnCancelar_Click(object sender, EventArgs e)
         {
             LimpaTela();
