@@ -1,0 +1,10 @@
+C:\Users\Alicia Tairini\Downloads\Desktop\poo 2 bimestre\Agenda Banco\Agenda Banco\bin\Debug\Agenda Banco.exe.config
+C:\Users\Alicia Tairini\Downloads\Desktop\poo 2 bimestre\Agenda Banco\Agenda Banco\bin\Debug\Agenda Banco.exe
+C:\Users\Alicia Tairini\Downloads\Desktop\poo 2 bimestre\Agenda Banco\Agenda Banco\bin\Debug\Agenda Banco.pdb
+C:\Users\Alicia Tairini\Downloads\Desktop\poo 2 bimestre\Agenda Banco\Agenda Banco\obj\Debug\Agenda Banco.csprojResolveAssemblyReference.cache
+C:\Users\Alicia Tairini\Downloads\Desktop\poo 2 bimestre\Agenda Banco\Agenda Banco\obj\Debug\Agenda_Banco.Form1.resources
+C:\Users\Alicia Tairini\Downloads\Desktop\poo 2 bimestre\Agenda Banco\Agenda Banco\obj\Debug\Agenda_Banco.Properties.Resources.resources
+C:\Users\Alicia Tairini\Downloads\Desktop\poo 2 bimestre\Agenda Banco\Agenda Banco\obj\Debug\Agenda Banco.csproj.GenerateResource.Cache
+C:\Users\Alicia Tairini\Downloads\Desktop\poo 2 bimestre\Agenda Banco\Agenda Banco\obj\Debug\Agenda Banco.csproj.CoreCompileInputs.cache
+C:\Users\Alicia Tairini\Downloads\Desktop\poo 2 bimestre\Agenda Banco\Agenda Banco\obj\Debug\Agenda Banco.exe
+C:\Users\Alicia Tairini\Downloads\Desktop\poo 2 bimestre\Agenda Banco\Agenda Banco\obj\Debug\Agenda Banco.pdb
