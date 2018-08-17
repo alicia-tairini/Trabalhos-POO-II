@@ -1,0 +1,30 @@
+C:\Users\Usuario\Downloads\TrabalhoB2\TrabalhoB2\bin\Debug\TrabalhoB2.exe.config
+C:\Users\Usuario\Downloads\TrabalhoB2\TrabalhoB2\bin\Debug\TrabalhoB2.exe
+C:\Users\Usuario\Downloads\TrabalhoB2\TrabalhoB2\bin\Debug\TrabalhoB2.pdb
+C:\Users\Usuario\Downloads\TrabalhoB2\TrabalhoB2\obj\Debug\TrabalhoB2.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\TrabalhoB2\TrabalhoB2\obj\Debug\TrabalhoB2.Form1.resources
+C:\Users\Usuario\Downloads\TrabalhoB2\TrabalhoB2\obj\Debug\TrabalhoB2.Properties.Resources.resources
+C:\Users\Usuario\Downloads\TrabalhoB2\TrabalhoB2\obj\Debug\TrabalhoB2.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\TrabalhoB2\TrabalhoB2\obj\Debug\TrabalhoB2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\TrabalhoB2\TrabalhoB2\obj\Debug\TrabalhoB2.exe
+C:\Users\Usuario\Downloads\TrabalhoB2\TrabalhoB2\obj\Debug\TrabalhoB2.pdb
+C:\Users\Usuario\Downloads\TrabalhoB2\TrabalhoB2\obj\Debug\TrabalhoB2.menuPrincipal.resources
+C:\Users\Usuario\Downloads\TrabalhoB2\TrabalhoB2\obj\Debug\TrabalhoB2.sobre.resources
+C:\Users\Usuario\Downloads\TrabalhoB2\TrabalhoB2\obj\Debug\TrabalhoB2.cadCli.resources
+C:\Users\Usuario\Downloads\TrabalhoB2\TrabalhoB2\obj\Debug\TrabalhoB2.cadForn.resources
+C:\Users\Usuario\Downloads\TrabalhoB2\TrabalhoB2\obj\Debug\TrabalhoB2.cadPed.resources
+C:\Users\Alicia Tairini\Downloads\Desktop\TrabalhoB2\TrabalhoB2\bin\Debug\TrabalhoB2.exe.config
+C:\Users\Alicia Tairini\Downloads\Desktop\TrabalhoB2\TrabalhoB2\bin\Debug\TrabalhoB2.exe
+C:\Users\Alicia Tairini\Downloads\Desktop\TrabalhoB2\TrabalhoB2\bin\Debug\TrabalhoB2.pdb
+C:\Users\Alicia Tairini\Downloads\Desktop\TrabalhoB2\TrabalhoB2\obj\Debug\TrabalhoB2.csprojResolveAssemblyReference.cache
+C:\Users\Alicia Tairini\Downloads\Desktop\TrabalhoB2\TrabalhoB2\obj\Debug\TrabalhoB2.cadCli.resources
+C:\Users\Alicia Tairini\Downloads\Desktop\TrabalhoB2\TrabalhoB2\obj\Debug\TrabalhoB2.cadForn.resources
+C:\Users\Alicia Tairini\Downloads\Desktop\TrabalhoB2\TrabalhoB2\obj\Debug\TrabalhoB2.cadPed.resources
+C:\Users\Alicia Tairini\Downloads\Desktop\TrabalhoB2\TrabalhoB2\obj\Debug\TrabalhoB2.Form1.resources
+C:\Users\Alicia Tairini\Downloads\Desktop\TrabalhoB2\TrabalhoB2\obj\Debug\TrabalhoB2.menuPrincipal.resources
+C:\Users\Alicia Tairini\Downloads\Desktop\TrabalhoB2\TrabalhoB2\obj\Debug\TrabalhoB2.Properties.Resources.resources
+C:\Users\Alicia Tairini\Downloads\Desktop\TrabalhoB2\TrabalhoB2\obj\Debug\TrabalhoB2.sobre.resources
+C:\Users\Alicia Tairini\Downloads\Desktop\TrabalhoB2\TrabalhoB2\obj\Debug\TrabalhoB2.csproj.GenerateResource.Cache
+C:\Users\Alicia Tairini\Downloads\Desktop\TrabalhoB2\TrabalhoB2\obj\Debug\TrabalhoB2.csproj.CoreCompileInputs.cache
+C:\Users\Alicia Tairini\Downloads\Desktop\TrabalhoB2\TrabalhoB2\obj\Debug\TrabalhoB2.exe
+C:\Users\Alicia Tairini\Downloads\Desktop\TrabalhoB2\TrabalhoB2\obj\Debug\TrabalhoB2.pdb
